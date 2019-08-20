@@ -1,4 +1,4 @@
-TEK-Alpha keyboard case.
+TEK-Alpha keyboard case designed by Photekq (geekhack/deskthority)
 
 Designed as a dampened (gasket) mount keyboard in 2015. Project was ditched due to me quitting the hobby temporarily.
 
